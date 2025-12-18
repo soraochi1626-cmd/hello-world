@@ -1,2 +1,2 @@
-# hello-world
-GitHubの勉強を始めました！
+# こんにちは
+**GitHubの勉強を始めました！**
